@@ -34,3 +34,5 @@ int result = 0;
 }
 
 Console.WriteLine("Результат: " + result);
+    }
+}
